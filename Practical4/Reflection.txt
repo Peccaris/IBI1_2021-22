@@ -1,3 +1,7 @@
+This practical is more complex than previous ones, and it really cost me a lot of time to try to figure out various problems. But after I solve the problems and did all the steps, I gained a lot and had a better command of Git.
 
-注意当前所在位置 别把文件搞乱了
 
+The push step is really troublesome , there were always some unpredictable conditions.
+
+
+I wonder why sometimes, the same process can be achieved by one person but if using another system, it failed.
