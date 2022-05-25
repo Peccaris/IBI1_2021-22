@@ -1,7 +1,7 @@
 import re  # import regular expression
 
 # read the original fasta file
-yeast_gene = open("/Users/yiyi/Desktop/IBI1_2021-22/Practical8/.Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa.icloud")  # open file
+yeast_gene = open("/Users/yiyi/Desktop/IBI1_2021-22/Practical8/.Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa")  # open file
 all_sequence = yeast_gene.read()  # read the file
 sequences = all_sequence.replace('\n', "")  # combine the lines
 sequences = sequences.split('>')  # split the str into single gene
