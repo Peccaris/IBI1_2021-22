@@ -15,4 +15,4 @@ while progress<10:
 	progress+=1 # Run it once and progress will be incremented by one
 	n = randint(1,100)
 
-print(n) # We can get a random interger that is between 1 and 100 
+print(n) # We can get a random interger that is between 1 and 100 and last element is printed.
